@@ -43,3 +43,6 @@ C:\JETEST\ConsoleApp\bin\Debug\normnfd.nlp
 C:\JETEST\ConsoleApp\bin\Debug\normnfkc.nlp
 C:\JETEST\ConsoleApp\bin\Debug\normnfkd.nlp
 C:\JETEST\ConsoleApp\obj\Debug\JETest.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\techtests\JustEatRecruitmentTest\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\techtests\JustEatRecruitmentTest\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\techtests\JustEatRecruitmentTest\ConsoleApp\obj\Debug\ConsoleApp.pdb
