@@ -1,0 +1,28 @@
+﻿{
+    "Restaurants": [
+        {
+            "Name": "restaurant1",
+            "RatingStars": 4.5,
+            "CuisineTypes": [
+                {
+                    "name": "cuisine1",
+                    "SeoName": "Seo1"
+                },
+                {
+                    "name": "cuisine2",
+                    "SeoName": "Seo2"
+                }
+            ]
+        },
+        {
+            "Name": "restaurant2",
+            "RatingStars": 3.0,
+            "CuisineTypes": [
+                {
+                    "name": "cuisine3",
+                    "SeoName": "Seo3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\APIClient.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\APIClient.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\obj\Debug\JETest.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\JE\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\JE\JETEST\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\JE\JETEST\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\APIClient.dll
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\mscorlib.dll
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\APIClient.pdb
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\normidna.nlp
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\normnfc.nlp
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\normnfd.nlp
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\normnfkc.nlp
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\bin\Debug\normnfkd.nlp
+C:\Users\Dave\Desktop\JETEST\ConsoleApp\obj\Debug\JETest.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\JETEST\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\JETEST\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\JETEST\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\JETEST\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\JETEST\ConsoleApp\bin\Debug\APIClient.dll
+C:\JETEST\ConsoleApp\bin\Debug\mscorlib.dll
+C:\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\JETEST\ConsoleApp\bin\Debug\APIClient.pdb
+C:\JETEST\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\JETEST\ConsoleApp\bin\Debug\normidna.nlp
+C:\JETEST\ConsoleApp\bin\Debug\normnfc.nlp
+C:\JETEST\ConsoleApp\bin\Debug\normnfd.nlp
+C:\JETEST\ConsoleApp\bin\Debug\normnfkc.nlp
+C:\JETEST\ConsoleApp\bin\Debug\normnfkd.nlp
+C:\JETEST\ConsoleApp\obj\Debug\JETest.ConsoleApp.csprojResolveAssemblyReference.cache

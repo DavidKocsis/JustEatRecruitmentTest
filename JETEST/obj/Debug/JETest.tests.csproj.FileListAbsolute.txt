@@ -1,0 +1,148 @@
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FakeResponse.json
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\JETEST.dll.config
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\JETEST.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\JETEST.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\APIClient.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\ConsoleApp.exe
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\JustFakeIt.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\nunit.framework.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Owin.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Rhino.Mocks.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\APIClient.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\ConsoleApp.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\JustFakeIt.pdb
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\nunit.framework.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\bin\Debug\Rhino.Mocks.xml
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\obj\Debug\JETest.tests.csprojResolveAssemblyReference.cache
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\obj\Debug\JETEST.dll
+C:\Users\DavidKo\Google Drive\TechTests\JE\JETEST\JETEST\obj\Debug\JETEST.pdb
+C:\JE\JETEST\JETEST\bin\Debug\FakeResponse.json
+C:\JE\JETEST\JETEST\bin\Debug\JETEST.dll.config
+C:\JE\JETEST\JETEST\bin\Debug\JETEST.dll
+C:\JE\JETEST\JETEST\bin\Debug\JETEST.pdb
+C:\JE\JETEST\JETEST\bin\Debug\APIClient.dll
+C:\JE\JETEST\JETEST\bin\Debug\ConsoleApp.exe
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.dll
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.dll
+C:\JE\JETEST\JETEST\bin\Debug\JustFakeIt.dll
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.dll
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\JE\JETEST\JETEST\bin\Debug\Newtonsoft.Json.dll
+C:\JE\JETEST\JETEST\bin\Debug\nunit.framework.dll
+C:\JE\JETEST\JETEST\bin\Debug\Owin.dll
+C:\JE\JETEST\JETEST\bin\Debug\Rhino.Mocks.dll
+C:\JE\JETEST\JETEST\bin\Debug\APIClient.pdb
+C:\JE\JETEST\JETEST\bin\Debug\ConsoleApp.pdb
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.pdb
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.xml
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.pdb
+C:\JE\JETEST\JETEST\bin\Debug\FluentAssertions.Core.xml
+C:\JE\JETEST\JETEST\bin\Debug\JustFakeIt.pdb
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.xml
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\JE\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\JE\JETEST\JETEST\bin\Debug\Newtonsoft.Json.xml
+C:\JE\JETEST\JETEST\bin\Debug\nunit.framework.xml
+C:\JE\JETEST\JETEST\bin\Debug\Rhino.Mocks.xml
+C:\JE\JETEST\JETEST\obj\Debug\JETest.tests.csprojResolveAssemblyReference.cache
+C:\JE\JETEST\JETEST\obj\Debug\JETEST.dll
+C:\JE\JETEST\JETEST\obj\Debug\JETEST.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FakeResponse.json
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\JETEST.dll.config
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\JETEST.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\JETEST.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\APIClient.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\ConsoleApp.exe
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\JustFakeIt.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\mscorlib.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\nunit.framework.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Owin.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Rhino.Mocks.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\APIClient.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\ConsoleApp.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\JustFakeIt.pdb
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\nunit.framework.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\Rhino.Mocks.xml
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\normidna.nlp
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\normnfc.nlp
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\normnfd.nlp
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\normnfkc.nlp
+C:\Users\Dave\Desktop\JETEST\JETEST\bin\Debug\normnfkd.nlp
+C:\Users\Dave\Desktop\JETEST\JETEST\obj\Debug\JETest.tests.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\JETEST\JETEST\obj\Debug\JETEST.dll
+C:\Users\Dave\Desktop\JETEST\JETEST\obj\Debug\JETEST.pdb
+C:\JETEST\JETEST\bin\Debug\FakeResponse.json
+C:\JETEST\JETEST\bin\Debug\JETEST.dll.config
+C:\JETEST\JETEST\bin\Debug\JETEST.dll
+C:\JETEST\JETEST\bin\Debug\JETEST.pdb
+C:\JETEST\JETEST\bin\Debug\APIClient.dll
+C:\JETEST\JETEST\bin\Debug\ConsoleApp.exe
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.Core.dll
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.dll
+C:\JETEST\JETEST\bin\Debug\JustFakeIt.dll
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.dll
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\JETEST\JETEST\bin\Debug\mscorlib.dll
+C:\JETEST\JETEST\bin\Debug\Newtonsoft.Json.dll
+C:\JETEST\JETEST\bin\Debug\nunit.framework.dll
+C:\JETEST\JETEST\bin\Debug\Owin.dll
+C:\JETEST\JETEST\bin\Debug\Rhino.Mocks.dll
+C:\JETEST\JETEST\bin\Debug\APIClient.pdb
+C:\JETEST\JETEST\bin\Debug\ConsoleApp.pdb
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.pdb
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.xml
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.Core.pdb
+C:\JETEST\JETEST\bin\Debug\FluentAssertions.Core.xml
+C:\JETEST\JETEST\bin\Debug\JustFakeIt.pdb
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.xml
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\JETEST\JETEST\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\JETEST\JETEST\bin\Debug\Newtonsoft.Json.xml
+C:\JETEST\JETEST\bin\Debug\nunit.framework.xml
+C:\JETEST\JETEST\bin\Debug\Rhino.Mocks.xml
+C:\JETEST\JETEST\bin\Debug\normidna.nlp
+C:\JETEST\JETEST\bin\Debug\normnfc.nlp
+C:\JETEST\JETEST\bin\Debug\normnfd.nlp
+C:\JETEST\JETEST\bin\Debug\normnfkc.nlp
+C:\JETEST\JETEST\bin\Debug\normnfkd.nlp
+C:\JETEST\JETEST\obj\Debug\JETest.tests.csprojResolveAssemblyReference.cache
+C:\JETEST\JETEST\obj\Debug\JETEST.dll
+C:\JETEST\JETEST\obj\Debug\JETEST.pdb
